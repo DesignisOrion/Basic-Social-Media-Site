@@ -3,7 +3,8 @@
 The goal of this project was to create a simple social media site using flask and sqlite. The goal is to caputre the user's id, name and content. Once done, we save on a database and can see the posts of prior when disconnecting / reconnecting to server. 
 
 ## Usage
-
+!pip install flask
+!pip install CORS
 ### Libraries
 
 ```python
